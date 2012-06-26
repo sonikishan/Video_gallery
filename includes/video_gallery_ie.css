@@ -1,0 +1,10 @@
+.video_gallery_container {
+  height:100%;
+  padding-top:20px;
+}
+
+a.videoLink div.caption {
+	background-color: none;
+	background-image: url(../../Final%20Project/images/ie_caption_transparency.png)
+	 
+}
